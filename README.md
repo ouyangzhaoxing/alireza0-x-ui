@@ -1,10 +1,10 @@
 # X-UI
 **An Advanced Web Panel • Built on Xray Core**
 
-![](https://img.shields.io/github/v/release/alireza0/x-ui.svg)
+![](https://img.shields.io/github/v/release/ouyangzhaoxing/alireza0-x-ui.svg)
 ![](https://img.shields.io/docker/pulls/alireza7/x-ui.svg)
-[![Go Report Card](https://goreportcard.com/badge/github.com/alireza0/x-ui)](https://goreportcard.com/report/github.com/alireza0/x-ui)
-[![Downloads](https://img.shields.io/github/downloads/alireza0/x-ui/total.svg)](https://img.shields.io/github/downloads/alireza0/x-ui/total.svg)
+[![Go Report Card](https://goreportcard.com/badge/github.com/ouyangzhaoxing/alireza0-x-ui)](https://goreportcard.com/report/github.com/ouyangzhaoxing/alireza0-x-ui)
+[![Downloads](https://img.shields.io/github/downloads/ouyangzhaoxing/alireza0-x-ui/total.svg)](https://img.shields.io/github/downloads/ouyangzhaoxing/alireza0-x-ui/total.svg)
 [![License](https://img.shields.io/badge/license-GPL%20V3-blue.svg?longCache=true)](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
 > **Disclaimer:** This project is only for personal learning and communication, please do not use it for illegal purposes, please do not use it in a production environment
@@ -36,7 +36,7 @@
 ## Install & Upgrade to Latest Version
 
 ```sh
-bash <(curl -Ls https://raw.githubusercontent.com/alireza0/x-ui/master/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/ouyangzhaoxing/alireza0-x-ui/master/install.sh)
 ```
 
 ## Install Legacy Version
@@ -44,7 +44,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/alireza0/x-ui/master/install.s
 **Step 1:** To install an old version, use following installation command. e.g., version `1.8.0`:
 
 ```sh
-VERSION=1.8.0 && bash <(curl -Ls "https://raw.githubusercontent.com/alireza0/x-ui/$VERSION/install.sh") $VERSION
+VERSION=1.8.0 && bash <(curl -Ls "https://raw.githubusercontent.com/ouyangzhaoxing/alireza0-x-ui/$VERSION/install.sh") $VERSION
 ```
 
 ## Manual Install & Upgrade
@@ -66,7 +66,7 @@ case "${ARCH}" in
   *) XUI_ARCH="amd64" ;;
 esac
 
-wget https://github.com/alireza0/x-ui/releases/latest/download/x-ui-linux-${XUI_ARCH}.tar.gz
+wget https://github.com/ouyangzhaoxing/alireza0-x-ui/releases/latest/download/x-ui-linux-${XUI_ARCH}.tar.gz
 ```
 
 2. Once the compressed package is downloaded, execute the following commands to install or upgrade x-ui:
@@ -110,7 +110,7 @@ curl -fsSL https://get.docker.com | sh
 **Step 2:** Clone the Project Repository:
 
    ```sh
-   git clone https://github.com/alireza0/x-ui.git
+   git clone https://github.com/ouyangzhaoxing/alireza0-x-ui.git
    cd x-ui
    ```
 
@@ -411,4 +411,4 @@ Save your changes and restart the Xray Service
 
 ## Stargazers over Time
 
-[![Stargazers over time](https://starchart.cc/alireza0/x-ui.svg)](https://starchart.cc/alireza0/x-ui)
+[![Stargazers over time](https://starchart.cc/ouyangzhaoxing/alireza0-x-ui.svg)](https://starchart.cc/ouyangzhaoxing/alireza0-x-ui)
