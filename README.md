@@ -1,3 +1,7 @@
+## **请注意：该项目是 alireza0/x-ui 1.10.2 的备份修复，不会更新维护，请不要向该项目提交 Issue 或 Pull Request**
+
+---
+
 # X-UI
 **An Advanced Web Panel • Built on Xray Core**
 
